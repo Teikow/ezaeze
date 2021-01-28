@@ -17,14 +17,6 @@
 }
 
 
-.header__mask {
-position:  absolute;
-bottom: 0;
-background:  0 0;
-height: 42px;
-width: 100%;
-z-index: 10;
-}
 
 
 .header__navbar {
